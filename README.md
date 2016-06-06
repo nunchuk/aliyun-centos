@@ -1,5 +1,5 @@
 <!--![image](./logo.png =60)-->
-<img src="https://raw.githubusercontent.com/nunchuk/aliyun-centos/master/logo.png" width="60" />
+<img src="https://raw.githubusercontent.com/nunchuk/aliyun-centos/master/logo.png" width="100" />
 
 # CentOS Docker Image 
 
